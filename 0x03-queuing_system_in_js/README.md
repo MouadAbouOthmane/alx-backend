@@ -1,2 +1,8 @@
-#0x3-queuing_system_in_js
-- back-end
+# 0x03. Queuing System in JS
+- Back-end
+- JavaScript
+- ES6
+- Redis
+- NodeJS
+- ExpressJS
+- Kue
